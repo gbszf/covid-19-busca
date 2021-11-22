@@ -1,0 +1,23 @@
+*{
+  font-family: Arial;
+}
+
+.label {
+  width: 50%;
+  height: 25px;
+}
+
+#submit {
+  width: 20%;
+  height: 50px;
+}
+
+input[value="Cadastrar"] {
+  font-family: Arial;
+  
+}
+
+#text {
+  width: 80%;
+  height: 100px;
+}

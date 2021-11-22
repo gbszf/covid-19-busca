@@ -1,0 +1,21 @@
+*{
+  font-family: Arial;
+}
+
+
+.container2 {
+	padding-left: 20px;
+}
+
+.categorias p {
+	color: grey;
+}
+
+.categorias p b {
+color: black;
+}
+
+img {
+	width: 50%;
+	height:35% ;
+}

@@ -1,0 +1,86 @@
+:host{
+	width: 100%;
+}
+
+
+.body{
+	display: flex;
+	justify-content: center;
+}
+
+*{
+  font-family: Arial;
+}
+.title {
+	width: 100%;
+}
+
+.title h1,h3 {
+	text-align: center;
+
+}
+
+.corpo {
+	width: 600px;
+}
+
+.title h1 {
+	margin-bottom: 1px;
+}
+
+.title h3 {
+	margin-top: 1px;
+	color: grey;
+}
+
+.component-noticia {
+	width: 40%;
+	display: flex;
+	
+}
+
+#divBusca{
+  border:solid 1px;
+  border-radius:15px;
+  width:300px;
+  height: 60px;
+}
+
+#txtBusca{
+	background-color:transparent;
+  float:left;
+  padding-left:5px;
+  font-style:italic;
+  font-size:18px;
+  border: none;
+  height:50px;
+  width:260px;
+  vertical-align: middle;
+
+}
+
+#divBusca img {
+	margin-top: 17px;
+	width: 25px;
+	height: 25px;
+	
+}
+
+.expandir{
+	color: blue;
+}
+
+.expandir a {
+	text-decoration: none;
+	color: blue;
+}
+
+.categorias p {
+	color: grey;
+	font-family: Arial;
+}
+
+.categorias p b {
+	color: black;
+	font-family: Arial;
+}
